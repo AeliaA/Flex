@@ -1,0 +1,34 @@
+/* style to make each box visible*/
+.box{
+	color: white;
+	font-size: 100px;
+	text-align: center;
+	text-shadow: 4px 4px 0 #999;
+}
+
+.box p{
+font-size: 20px;	
+}
+/* colors for each box*/
+
+.box1 {
+	background-color: #1abc9c;
+}
+
+.box2 {background-color: #3498db}
+.box2 {background-color: #9b59b6}
+.box2 {background-color: #43395e}
+.box2 {background-color: #f1c40f}
+.box2 {background-color: #adff2f}
+.box2 {background-color: #00cbff}
+.box2 {background-color: #d2ba00}
+.box2 {background-color: #ffff32}
+.box2 {background-color: #b2dfee}
+.box2 {background-color: #000033}
+.box2 {background-color: #3498db}
+
+/*flex start here the above is just page content*/
+
+.wrapper{
+	
+}
